@@ -3,7 +3,6 @@
 import { useEffect, useRef, useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
-import { Video, Mic, StopCircle } from 'lucide-react'
 import { useRouter } from "next/navigation"
 
 export default function AnswerScreen() {
