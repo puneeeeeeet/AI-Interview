@@ -17,7 +17,7 @@ export default function InstructionScreen() {
               <li>Permission for access of camera, microphone, entire screen sharing is required</li>
               <li>Be in professional attire and avoid distractions.</li>
               <li>Give a detailed response, providing as much information as you can.</li>
-              <li>Answer the question with examples and projects you've worked on.</li>
+              <li>Answer the question with examples and projects you&apos;ve worked on.</li>
               <li>Make sure your face is clearly visible in the camera</li>
             </ul>
           </div>
